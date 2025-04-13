@@ -10,7 +10,7 @@
             "name": "Run Script: start:debug",
             "request": "launch",
             "command": "npm run start:debug",
-            "cwd": "${workspaceFolder}/server"
+            "cwd": "${workspaceFolder}"
         }
     ]
 }
